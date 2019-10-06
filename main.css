@@ -9,9 +9,10 @@ p{
 	
 }
 .top{
-	background-color: white;
+	
+	background-color: black;
 	border: 5px solid #FFF;
 	padding-left: 30px;
 	padding-right: 30px;
-	
+	color: blue;
 }
