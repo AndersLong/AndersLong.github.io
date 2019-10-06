@@ -10,9 +10,16 @@ p{
 }
 .top{
 	
-	background-color: black;
-	border: 5px solid #FFF;
-	padding-left: 30px;
-	padding-right: 30px;
+	background-color: #566782;
+	border: 5px solid #002147;
+	padding: 30px;
+	color: blue;
+}
+
+.bottom{
+	
+	background-color:#566782;
+	border: 5px solid #002147;
+	padding: 30;
 	color: blue;
 }
