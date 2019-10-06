@@ -13,7 +13,8 @@ p{
 	background-color: #566782;
 	border: 5px solid #002147;
 	padding: 30px;
-	color: blue;
+	padding-right: 600px;
+	
 }
 
 .bottom{
@@ -21,5 +22,5 @@ p{
 	background-color:#566782;
 	border: 5px solid #002147;
 	padding: 30;
-	color: blue;
+	
 }
