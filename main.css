@@ -9,7 +9,11 @@ p{
 	
 }
 .topLeft{
-	
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	width: 1000px;
+	height: 1000px;
 	background-color: #E35604;
 	border: 5px solid #002147;
 	padding: 30px;
@@ -22,6 +26,11 @@ p{
 
 .topRight{
 	
+	position: absolute;
+	left: 1200px;
+	top: 100px;
+	width: 1000px;
+	height: 1000px;
 	background-color: #E35604;
 	border: 5px solid #002147;
 	padding: 30px;
