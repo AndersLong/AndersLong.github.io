@@ -8,15 +8,27 @@ p{
 	color: black;
 	
 }
-.top{
+.topLeft{
 	
 	background-color: #ffce42;
 	border: 5px solid #002147;
 	padding: 30px;
-	margin-left: 300px;
+	margin-left: 30px;
 	margin-right: 300px;
 	margin-top: 100px;
 	margin-bottom: 100px;
+	
+}
+
+.topRight{
+	
+	background-color: #ffce42;
+	border: 5px solid #002147;
+	padding: 30px;
+	margin-right: 30px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	
 	
 }
 
