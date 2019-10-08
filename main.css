@@ -12,9 +12,9 @@ p{
 	position: absolute;
 	left: 100px;
 	top: 100px;
-	width: 1000px;
-	height: 1000px;
-	background-color: #E35604;
+	width: 500px;
+	height: 500px;
+	background-color: #ffce42;
 	border: 5px solid #002147;
 	padding: 30px;
 	margin-left: 30px;
@@ -27,11 +27,11 @@ p{
 .topRight{
 	
 	position: absolute;
-	left: 1200px;
+	left: 700px;
 	top: 100px;
-	width: 1000px;
-	height: 1000px;
-	background-color: #E35604;
+	width: 500px;
+	height: 500px;
+	background-color: #ffce42;
 	border: 5px solid #002147;
 	padding: 30px;
 	padding-left: 300px;
