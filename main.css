@@ -11,10 +11,8 @@ p{
 .topLeft{
 	position: absolute;
 	left: 50px;
-	top: 100px;
-	width: 500px;
-	height: 500px;
-	background-color: #ffce42;
+	top: 50px;
+	border: 30px solid #ffce42;
 	border: 5px solid #002147;
 	padding: 30px;
 	margin-left: 30px;
@@ -29,9 +27,7 @@ p{
 	position: absolute;
 	left: 600px;
 	top: 100px;
-	width: 500px;
-	height: 500px;
-	background-color: #ffce42;
+	border: 30px solid #ffce42;
 	border: 5px solid #002147;
 	padding: 30px;
 	padding-left: 300px;
@@ -49,6 +45,7 @@ p{
 	top: 700px;
 	background-color:#ffce42;
 	border: 5px solid #002147;
+	border: 30px solid #ffce42;
 	padding: 30;
 	
 }
