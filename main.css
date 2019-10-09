@@ -12,8 +12,7 @@ p{
 	position: absolute;
 	left: 50px;
 	top: 50px;
-	background-color: #ffce42;
-	border: 5px solid #002147;
+	background-color: #a3cfdd;
 	padding: 30px;
 	margin-top: 100px;
 	margin-bottom: 100px;
@@ -25,10 +24,7 @@ p{
 	position: absolute;
 	left: 600px;
 	top: 100px;
-	width: 500px;
-	height: 500px;
-	background-color: #ffce42;
-	border: 5px solid #002147;
+	background-color: #a3cfdd;
 	padding: 30px;
 	padding-left: 300px;
 	
@@ -40,8 +36,7 @@ p{
 	position: absolute;
 	left: 50px;
 	top: 700px;
-	background-color:#ffce42;
-	border: 5px solid #002147;
+	background-color:#6699cc;
 	padding: 30;
 	
 }
