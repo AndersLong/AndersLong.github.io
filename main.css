@@ -36,11 +36,11 @@ p{
 .back1{
 	
 	position: absolute;
-	left: 200px;
-	top: 300px;
-	width: 300px;
+	left: 300px;
+	top: 75px;
+	width: 1000px;
 	height: 300px;
-	background-color:#565656;
+	background-color:#d0d0e1;
 	padding: 30px;	
 }
 
