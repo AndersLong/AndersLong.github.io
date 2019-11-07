@@ -1,0 +1,74 @@
+*{
+
+	
+}
+
+links{
+	
+}
+
+.links ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: blue;
+}
+
+.links li {
+  float: left;
+}
+
+.links li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 48px;
+  text-decoration: none;
+}
+
+.links li a:hover {
+  background-color: #111;
+}
+
+.banner {
+  
+  
+}
+.banner img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 40%;
+}
+.banner p{
+	text-align: center;
+	font-size: 150%;
+	
+}
+.game{
+	
+}
+.game img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 40%;
+}
+.game p{
+	width: 40%;
+	text-align: center;
+	font-size: 150%;
+}
+.explanation p{
+	text-align: center;
+	font-size: 200%;
+}
+body{
+	background-color: white;	
+}
+
+#look{
+	margin: 0;
+	padding: 0;
+}
