@@ -49,6 +49,20 @@ links{
 .game{
 	
 }
+
+.comic img{
+  padding-top: 20px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 80%;
+}
+
+.comic p{
+  text-align: center;
+	font-size: 200%;
+}
+
 .game img{
 	padding-top: 20px;
 	display: block;
