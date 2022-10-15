@@ -50,6 +50,11 @@ links{
 	
 }
 
+.test_article_format p{
+  text-align:left;
+  font-size: 50%
+}
+
 .comic img{
   padding-top: 20px;
 	display: block;
